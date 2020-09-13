@@ -12,6 +12,8 @@ namespace ShowerQ.Shared.Models.Entities
 
         public string LastName { get; set; }
 
+        public string PhoneNumber { get; set; }
+
         public Gender Gender { get; set; }
 
         public string Room { get; set; }
